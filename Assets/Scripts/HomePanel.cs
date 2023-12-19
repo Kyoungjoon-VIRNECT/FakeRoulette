@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class HomePanel : MonoBehaviour
 {
     [SerializeField] private SettingManager settingPanel;
-    [SerializeField] private Roulette roulette;
+    [SerializeField] private RouletteSpinner roulette;
     
     [SerializeField] private Button settingButton;
     [SerializeField] private Button rotaterButton;
